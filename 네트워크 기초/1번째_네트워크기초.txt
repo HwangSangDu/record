@@ -1,0 +1,24 @@
+
+프로토콜 = 규약 = 약속
+ex) 
+	Over  : 송신 완료
+	Roger : 수신 완료
+
+IEEE 754 실수를 저장하는 방식 (소수 표현)
+
+* RFC 
+RFC791 = IP에 대한 스펙이다.
+밑에 사이트에서 다운로드 받아서 보자!
+RFC request for comment
+https://www.rfc-editor.org 여기서 확인 가능하다.
+예외적인 상황을 알아내야 하는 것이 취약점이다.
+
+IP 맨 앞부분은 4와 6 둘 중 하나이다.
+만약 7을 넣는다면?
+
+IP 버전 4
+IP 버전 6 의 보안필드를 비교해보자!
+
+LAN + WAN = internet
+(local)(wide)
+
